@@ -1,7 +1,8 @@
 ### About me 
 
-Computer Science student
+Computer Science student 😎
 
+[![My Skills](https://skillicons.dev/icons?i=arduino,python,html,latex)](https://skillicons.dev)
 <!--
 **VicFC/VicFC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
