@@ -1,10 +1,4 @@
-### About me 
 
-Estudiante de Ingenieria en Computación
-
-
-### Tech Stack⚡
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,c,arduino,godot,linux&theme=dark)](https://skillicons.dev)
 <!--
 **VicFC/VicFC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
